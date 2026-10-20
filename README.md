@@ -8,6 +8,8 @@ This repository collects useful GitHub projects related to geology, petroleum ge
 
 首次安装需 Python 3.10–3.12 和网络：
 
+如果本次改动尚未合并到 `main`，克隆后先运行 `git switch codex/geoscience-skills`，再执行安装命令。
+
 ```powershell
 git clone https://github.com/ganshuai123/-.git geoscience-tools
 cd geoscience-tools
