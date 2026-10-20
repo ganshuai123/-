@@ -1,0 +1,6 @@
+interface:
+  display_name: "地学 GitHub 工具集"
+  short_description: "运行构造地质、测井曲线、岩石物理示例及地学 CSV 分析与批量绘图"
+  default_prompt: "使用 $geoscience-github，根据我的数据选择相应工具，运行分析并给出图件与来源记录。"
+policy:
+  allow_implicit_invocation: true

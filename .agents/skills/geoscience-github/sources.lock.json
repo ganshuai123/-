@@ -1,0 +1,53 @@
+{
+  "geocouche": {
+    "repo": "mauroalberti/geocouche",
+    "commit": "76d19ca01deb99c8cc4174e925c4401bfaf099b0",
+    "download_directory": "geocouche-master",
+    "files": {
+      "apsg/core.py": "8b4beb307785de818cad1c8ed7cfaef94de816d86703887b1ff395e664fe71c6",
+      "apsg/db.py": "1c494cfbb286b31c741aeac772a45a5d1bec479eb118d230146c38517d9e7600",
+      "apsg/helpers.py": "39b8ca807a4c451698f2467bba13f38e73a9e104043ae4fae7c5aa3dd12ea2ce",
+      "apsg/plotting.py": "8c0ec71c1d9570a166affa13e0586b59b17233e504e761d568c26c27586beaee",
+      "apsg/shell.py": "58ca9cd4af123e11b680e36820d9b807e67e58bacad709fffea05ea141d91bfa",
+      "apsg/tensors.py": "7b6b67e3d3b58a735f449b74cc1ac6c0fc708173446c726948ae9992fa418154",
+      "apsg/__init__.py": "ad6eb62de81d3c6483b4ae6f8abfc56a628276990da95369b104d7c529743abc"
+    }
+  },
+  "ocng": {
+    "repo": "kaushikmanikonda/Data-Analysis-Using-Python-OCNG_669_Geosciences",
+    "commit": "95f2c1e78c31380bf0b55ca0a89e0d924a411c6e",
+    "download_directory": "Data-Analysis-Using-Python-OCNG_669_Geosciences-main",
+    "files": {
+      "numpy_1.ipynb": "7683e69df45597bbdeeeed1dc2345bc2da00ef9be561e1b98f5535eeb53e8d78"
+    }
+  },
+  "well-logs": {
+    "repo": "taiwofawumi/DS_python-well-logs-plot",
+    "commit": "08f9d12598b63e54e50807c06eb8e4d00c035a8a",
+    "download_directory": "DS_python-well-logs-plot-main",
+    "files": {
+      "Plot Well Logs_v1.ipynb": "853ccd3db8042ef752436e6bbe748915c71cf6dee6a7f5fbaabdcf2a8d882214"
+    }
+  },
+  "petroleum": {
+    "repo": "aleksandrbogdanovmsu/Pertoleum-Geology-Projects",
+    "commit": "7486b67a5d245171d4b751160e2f131cdab4112b",
+    "download_directory": "Pertoleum-Geology-Projects-main",
+    "files": {
+      "Spectral Gamma-ray Logging/k.mdb.csv": "f95c8147f99eccbfeb060ffe32620dd60392a0bc02f45647977277c28ff31246",
+      "Spectral Gamma-ray Logging/Petrophysics task a - Spectral gamma log.ipynb": "61ab8206c23a16afc82bae860c3617b803c85706586f5d3777dde1103ca27ecb",
+      "Spectral Gamma-ray Logging/quest.mdb.csv": "6a8e7c4ec373f735071148f7a01f635a742942d9eb8b1ed8c659fdc636ab6f9e",
+      "Spectral Gamma-ray Logging/th.mdb.csv": "fc216b2a31fdfcf45a0a1972e9f140d9d290c92f915baad1478117a6cfeb6838",
+      "Spectral Gamma-ray Logging/u.mdb.csv": "0f0801d8cd1e29d920a1d14dcd1696d26126d146d4e9d4ba1f0af86f6404e6ec"
+    }
+  },
+  "geo-plot": {
+    "repo": "aysha-anjala/Geo-Plot-",
+    "commit": "70821d64a3baac53f440411928c4500b3d4a2fde",
+    "download_directory": "Geo-Plot--main",
+    "files": {
+      "README.md": "195989ab4b4d30e68fe4cb1a46095e49fbc21283f4bde606bf1df30a9eac241f",
+      "LICENSE": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    }
+  }
+}
